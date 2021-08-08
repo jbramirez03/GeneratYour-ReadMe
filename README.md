@@ -21,7 +21,8 @@ This is a ReadMe generator that changes based on the inputs given in the command
 ## Installation
 You must first install inquirer using `npm i inquirer`.
 ## Usage
-you open the command line in Vs code and respond to prompts displayed after `node index.js` is ran in the command line.
+you open the command line in Vs code and respond to prompts displayed after `node index.js` is ran in the command line.<br><br>
+![Gif](Develop/assets/GeneratedReadme.gif)
 ## Credits
 Jason Barrera-Ramirez<br><br>
 [<img align="left" width="28px" alt="LinkedIn" src="https://user-images.githubusercontent.com/82244776/128110957-497edff3-59dc-41d6-89bc-be7570e441fe.png" />][LinkedIn]<br><br>
